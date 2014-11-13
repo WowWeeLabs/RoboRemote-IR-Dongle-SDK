@@ -3,7 +3,7 @@ WowWee RoboRemote IR Dongle SDK
 
 ![](Images/RoboRemote.jpg)
 
-The free RoboRemote IR Dongle protocol lets you send IR commands to any previous generation WowWee robots. These dongles come for free in the RoboSapien X or RoboRaptor X products. Or else they can be purchased seperately from our online shop.
+The free RoboRemote IR Dongle protocol lets you send IR commands to any previous generation WowWee robots. These dongles come for free in the [RoboSapien X](http://store.wowwee.com/robots/robosapien-x.html) or [RoboRaptor X](http://store.wowwee.com/robots/roboraptor-x.html) products. Or else they can be purchased seperately from our [online store](http://store.wowwee.com/robots/roboremote.html).
 
 For information on WowWee products visit: http://www.wowwee.com/.
 
