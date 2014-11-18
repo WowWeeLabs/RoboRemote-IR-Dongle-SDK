@@ -1,5 +1,6 @@
 WowWee RoboRemote IR Dongle SDK
 ===============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/WowWeeLabs/RoboRemote-IR-Dongle-SDK?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ![](Images/RoboRemote.jpg)
 
